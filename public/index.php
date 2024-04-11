@@ -19,6 +19,7 @@ define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 if (getcwd() . DIRECTORY_SEPARATOR !== FCPATH) {
     chdir(FCPATH);
     JOÃO EXEMPLO
+    JOÃO EXEMPLO 2 
 }
 
 /*
